@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+	font-family:  'Poppins', sans-serif;
+}
+
+.color-red{color: #f1254d;}
+
+.fs-20{font-size: 20px;}
+
+p{
+    font-size: 18px;
+	font-family:  'Open sans', sans-serif;
+	font-weight: 400;
+	color: #555;
+}
+
+h1{
+	font-size: 35px;
+    font-weight: 600;
+    color: #333;
+}
+
+ul{
+	list-style: decimal;
+}
