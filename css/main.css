@@ -276,6 +276,7 @@ h6{
 .fs-50{font-size: 50px;}
 
 /***** colors *****/
+.color-000{color: #000}
 .color-333{color: #333;}
 .color-666{color: #666;}
 .color-777{color: #777;}
@@ -1263,6 +1264,24 @@ h6{
 
 .strategy-area .plan1{
 	background-image: url(../images/plan1.jpg);
+	background-size: cover;
+	background-position: center left;
+}
+
+.plan1-image{
+	background-image: url(../images/plan-plan1.jpg);
+	background-size: cover;
+	background-position: center left;
+}
+
+.plan2-image {
+	background-image: url(../images/plan-plan2.jpg);
+	background-size: cover;
+	background-position: center left;
+}
+
+.plan3-image {
+	background-image: url(../images/plan-plan3.jpg);
 	background-size: cover;
 	background-position: center left;
 }
