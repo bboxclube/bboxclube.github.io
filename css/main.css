@@ -386,7 +386,7 @@ h6{
     padding: 10px 26px;
 	-webkit-background: linear-gradient(-45deg, #ddf913 0%, #d7df01 100%);
 			background: linear-gradient(-45deg, #ddf913 0%, #d7df01 100%);
-	color: #fff;
+	color: #000;
 }
 .btn-1:hover{color: #333;}
 
@@ -420,7 +420,7 @@ h6{
 	-webkit-background: linear-gradient(-45deg, #ddf913 0%, #d7df01 100%);
 			background: linear-gradient(-45deg, #ddf913 0%, #d7df01 100%);
 	border: 1px solid #d7df01;
-	color: #fff;
+	color: #000;
 }
 
 .btn-3:before{
